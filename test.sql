@@ -1,0 +1,1 @@
+SELECT detail_fetch_status, COUNT(*) FROM product_details GROUP BY detail_fetch_status;

@@ -1,0 +1,1997 @@
+[
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "GET",
+    "resource_type": "document",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/23bdac296628fb03.css?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/f752615d279528e2.css?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/Obviously-s.p.9d96bf7b.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/nwpMtKy2OAdR1K_IwhWudF_R3woqZ_LYxnV18A-s.p.f704421b.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/Obviously_Medium-s.p.6663524b.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/nwpStKy2OAdR1K_IwhWudF_R3w8aZejf5Hc-s.p.3638c0d1.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/S6u9w4BMUTPHh6UVSwiPGQ3q5d0-s.p.c516d566.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/images/logo.svg?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/5d15fffe5871bfb7.css?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/583c47ea8dbcd45f.css?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/Obviously_Bold-s.p.51e06dcc.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/Obviously_Semibold-s.p.461a8b8c.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/S6uyw4BMUTPHjx4wXiWtFCc-s.p.b70afd82.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/daf04d6330f876c3.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/21a4c98ca918630a.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/a8ad616bb67a7919.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/aeac1ae3231f0d02.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/70262ebe550b5d6b.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/bcda84bb9df3455f.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/56cd7c1393353383.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/447e33a9f6acf27c.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/3d8b643dd5a56e32.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/390cdcc3cf86a91b.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K3T9D5M",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/f7e9efc1e502f021.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/1b576b0ee48d7d78.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/39e57c97f2931d32.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/a75542523abcda6b.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/9ece87847b08cfb1.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/c45acd039f468d05.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/ba0176955bc23890.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/98bfd29b412ff31d.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/71c5dc6545812ee4.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/ba05e6705d476004.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/86dca5416a46b451.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/766cdbf8ea3f3a22.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/Frame_308_7c98c59173.png",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/af253dfba70ee06e.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/TBT_1_c9dfadd608.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/master_card_8934089f8d.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/visa_ea08d3b722.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/paytm_f479ee8bc8.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/upi_006d939022.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/gpay_035b4e9fc3.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/phonepe_0b7c421b14.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/image_111_443980a0df.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/facebook_00a7da7f49.png?w=32&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/image_111_1_5e676a33d5.png?w=128&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/x_dcacefc00c.png?w=32&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/yt_9e655addd5.png?w=32&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/newsletter_052c9802d6.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/cms/instagram_b7a8071e3e.png?w=32&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/ObviouslyNarrow_SemiBold-s.a679369f.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/ObviouslyNarrow_Medium-s.fa52d88b.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/GooddogNew-s.58d85eb0.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/2830c0f3a46b8149.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/5946466ce7170eb7.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/208be0aa1063bad3.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/1af3c4b13e79499a.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/47fa92c413e930ba.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/41d4ac7b3457706f.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/6412fd6940888fa6.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/7014bac7aed096d9.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/fe56f6784a0a54cc.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/853f6a922e593803.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/b548930a528b1a82.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/f16c2c49bea8461b.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/488cf0567f6359e6.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/96d17f587fe193dd.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/0535faeaa521e143.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/1b314e5607234f3d.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/ed18494761eb277b.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/1f198dc6fef0a568.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/ec03bae6d27ebf8e.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/d9042c5397033fc3.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/7998e51bae8d16f3.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/7528f959a6bb6322.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/8046eff5a576f0a0.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://dev.visualwebsiteoptimizer.com/j.php?a=1131936&u=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&vn=2.1&x=true",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://dev.visualwebsiteoptimizer.com/as01/collect/v.gif?cd=0&a=1131936&d=thewholetruthfoods.com&u=DB435713D912493949424EBE59D58671E&h=0d66a08d2ea7e35a5939acbe2fc3f537&t=false",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://dev.visualwebsiteoptimizer.com/cdn/edrv/worker-d1465c2fa6101b9e26256b6e05f49649.br.js",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://dev.visualwebsiteoptimizer.com/cdn/edrv/va_gq-4a77fd16ceaed5313d780dca6636cc5c.br.js",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8"
+  },
+  {
+    "url": "blob:https://thewholetruthfoods.com/1fffa635-f3f7-42bb-a390-7a66bb5d4db5",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269001978.png?w=640&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269001978.png?w=750&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269002133.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269003083.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269002133.png?w=750&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269003083.png?w=750&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KTV17YXGRDAR5RQF4CXA3335.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KTV17YXGT0MWZNNK48G1ZZSP.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KTV17YXGT0MWZNNK48G1ZZSP.png?w=750&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KV5JFYTJ6BSGG4C7E0MXHJ1R.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753269001978.png?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/image_1753691825647.png?w=96&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/29273aeb57138144.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/87339845e96ee772.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/86101d5f7ea3e69a.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/715bee758cc84163.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/acec45329b3b7bee.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/media/VerveineRegular-s.ce9e3425.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "status": 200,
+    "content_type": "font/woff2"
+  },
+  {
+    "url": "https://checkout-merchant.snapmint.com/js/v1/10242",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript;charset=UTF-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/?_rsc=3fm7u",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://api.thewholetruthfoods.com/store/custom-carts",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "{\"data\": {\"cart\": {\"id\": \"cart_01M1G8H69TSXGMFCDP07DYAP4H\", \"currency_code\": \"inr\", \"email\": null, \"region_id\": \"reg_01K1807YATMW28HC32JE1PTGE6\", \"created_at\": \"2026-09-02T05:12:39.994Z\", \"updated_at\": \"2026-09-02T05:12:39.994Z\", \"completed_at\": null, \"total\": 0, \"subtotal\": 0, \"tax_total\": 0, \"discount_total\": 0, \"discount_subtotal\": 0, \"discount_tax_total\": 0, \"original_total\": 0, \"original_tax_total\": 0, \"item_total\": 0, \"item_subtotal\": 0, \"item_tax_total\": 0, \"original_item_total\": 0, \"orig",
+    "_full_body": {
+      "data": {
+        "cart": {
+          "id": "cart_01M1G8H69TSXGMFCDP07DYAP4H",
+          "currency_code": "inr",
+          "email": null,
+          "region_id": "reg_01K1807YATMW28HC32JE1PTGE6",
+          "created_at": "2026-09-02T05:12:39.994Z",
+          "updated_at": "2026-09-02T05:12:39.994Z",
+          "completed_at": null,
+          "total": 0,
+          "subtotal": 0,
+          "tax_total": 0,
+          "discount_total": 0,
+          "discount_subtotal": 0,
+          "discount_tax_total": 0,
+          "original_total": 0,
+          "original_tax_total": 0,
+          "item_total": 0,
+          "item_subtotal": 0,
+          "item_tax_total": 0,
+          "original_item_total": 0,
+          "original_item_subtotal": 0,
+          "original_item_tax_total": 0,
+          "shipping_total": 0,
+          "shipping_subtotal": 0,
+          "shipping_tax_total": 0,
+          "original_shipping_tax_total": 0,
+          "original_shipping_subtotal": 0,
+          "original_shipping_total": 0,
+          "credit_line_subtotal": 0,
+          "credit_line_tax_total": 0,
+          "credit_line_total": 0,
+          "metadata": null,
+          "sales_channel_id": "sc_01K17WW5GTPPXSNRMM1MB83076",
+          "shipping_address_id": "caaddr_01M1G8H69TBPHCM1EAAVE4E6VR",
+          "customer_id": null,
+          "items": [],
+          "shipping_methods": [],
+          "shipping_address": {
+            "id": "caaddr_01M1G8H69TBPHCM1EAAVE4E6VR",
+            "first_name": null,
+            "last_name": null,
+            "company": null,
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "postal_code": null,
+            "country_code": "in",
+            "province": null,
+            "phone": null
+          },
+          "billing_address": null,
+          "credit_lines": [],
+          "region": {
+            "id": "reg_01K1807YATMW28HC32JE1PTGE6",
+            "name": "India",
+            "currency_code": "inr",
+            "automatic_taxes": true,
+            "countries": [
+              {
+                "iso_2": "in",
+                "iso_3": "ind",
+                "num_code": "356",
+                "name": "INDIA",
+                "display_name": "India",
+                "region_id": "reg_01K1807YATMW28HC32JE1PTGE6",
+                "metadata": null,
+                "created_at": "2025-07-28T06:52:33.629Z",
+                "updated_at": "2025-07-28T07:58:11.272Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          "promotions": []
+        }
+      },
+      "message": "OK",
+      "status": 200,
+      "success": true
+    }
+  },
+  {
+    "url": "https://api.thewholetruthfoods.com/store/global-config",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "{\"data\": [{\"id\": \"01K17WVX3AF3KXAG8AE0HDV77J\", \"name\": \"Name of the store\", \"key\": \"store_name\", \"value\": \"TWT\", \"description\": \"Name of the store\", \"is_default\": true, \"access\": \"public\", \"created_at\": \"2025-07-28T06:52:34.282Z\", \"updated_at\": \"2025-08-25T01:51:40.439Z\", \"deleted_at\": null}, {\"id\": \"01K17WVX3TZPYDD1Q9ES166HS4\", \"name\": \"Store contact email\", \"key\": \"store_email\", \"value\": \"info@example.com\", \"description\": \"Store contact email\", \"is_default\": true, \"access\": \"public\", \"created_",
+    "_full_body": {
+      "data": [
+        {
+          "id": "01K17WVX3AF3KXAG8AE0HDV77J",
+          "name": "Name of the store",
+          "key": "store_name",
+          "value": "TWT",
+          "description": "Name of the store",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.282Z",
+          "updated_at": "2025-08-25T01:51:40.439Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX3TZPYDD1Q9ES166HS4",
+          "name": "Store contact email",
+          "key": "store_email",
+          "value": "info@example.com",
+          "description": "Store contact email",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.298Z",
+          "updated_at": "2025-08-25T01:51:40.463Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX43PPYFR0DRQRSZD9QD",
+          "name": "Default store currency",
+          "key": "currency",
+          "value": "INR",
+          "description": "Default store currency",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.307Z",
+          "updated_at": "2025-08-25T01:51:40.481Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX4BSQC96581HHRXYRK1",
+          "name": "Allow checkout without account",
+          "key": "enable_guest_checkout",
+          "value": "true",
+          "description": "Allow checkout without account",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.315Z",
+          "updated_at": "2025-08-25T01:51:40.500Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX4Q4G3WFZGYBBBTJTFD",
+          "name": "Enable Cash on Delivery payment method",
+          "key": "enable_cod",
+          "value": "true",
+          "description": "Enable Cash on Delivery payment method",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.327Z",
+          "updated_at": "2025-08-25T01:51:40.519Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX52W4GTS3YMR5Q7R6TM",
+          "name": "Minimum order value for Cash on Delivery",
+          "key": "cod_min_amount",
+          "value": "198",
+          "description": "Minimum order value for Cash on Delivery",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.338Z",
+          "updated_at": "2025-08-25T01:51:40.533Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX5DR5GCGX0VQEEPES8W",
+          "name": "Maximum order value for Cash on Delivery",
+          "key": "cod_max_amount",
+          "value": "5000",
+          "description": "Maximum order value for Cash on Delivery",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.349Z",
+          "updated_at": "2026-06-01T05:30:00.843Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX5QYHRFMW3FQK60DPSE",
+          "name": "Enable Online Payment method",
+          "key": "enable_online_payment",
+          "value": "true",
+          "description": "Enable Online Payment method",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.359Z",
+          "updated_at": "2025-08-25T01:51:40.561Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX61WR7T1BMXHG4MA36K",
+          "name": "Minimum order value for Online Payment",
+          "key": "online_payment_min_amount",
+          "value": "198",
+          "description": "Minimum order value for Online Payment",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.369Z",
+          "updated_at": "2025-08-25T01:51:40.574Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX6FM277KMP5GPFX8D9F",
+          "name": "Maximum order value for Online Payment",
+          "key": "online_payment_max_amount",
+          "value": "1000000000",
+          "description": "Maximum order value for Online Payment",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.383Z",
+          "updated_at": "2025-08-25T01:51:40.766Z",
+          "deleted_at": null
+        },
+        {
+          "id": "01K17WVX6WVWABHR4SXSM4WJDV",
+          "name": "Enable Manual Payment method",
+          "key": "enable_manual_payment",
+          "value": "false",
+          "description": "Enable Manual Payment method",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2025-07-28T06:52:34.396Z",
+          "updated_at": "2025-08-25T01:51:44.745Z",
+          "deleted_at": null
+        },
+        {
+          "id": "gcf_01M114NGMAB9156EY0XYP4Q17S",
+          "name": "Snapmint Minimum Order Value",
+          "key": "snapmint_min_order_value",
+          "value": "199",
+          "description": "",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2026-08-27T08:16:30.858Z",
+          "updated_at": "2026-08-27T08:16:30.858Z",
+          "deleted_at": null
+        },
+        {
+          "id": "gcf_01M1AV3Y5B58RYDBFS3EJMA8N9",
+          "name": "Disable Snapmint Widget",
+          "key": "snapmint_widget_disable",
+          "value": "false",
+          "description": "When true, frontend suppresses the Snapmint EMI widget script. Default false (widget enabled).",
+          "is_default": true,
+          "access": "public",
+          "created_at": "2026-08-31T02:42:02.027Z",
+          "updated_at": "2026-08-31T03:10:09.012Z",
+          "deleted_at": null
+        }
+      ],
+      "message": "OK",
+      "status": 200,
+      "success": true
+    }
+  },
+  {
+    "url": "https://js.supascribe.com/v1/loader/KJSaeW2fsiVTYysW5UKDMDF4K8u1.js",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript"
+  },
+  {
+    "url": "https://api.thewholetruthfoods.com/store/product-reviews?limit=20&offset=0&order=-created_at&product_id=prod_01JWB88PWETQJBSPG29JAZZAGE&has_images=true&has_videos=true",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "{\"data\": {\"reviews\": [], \"count\": 0, \"offset\": 0, \"limit\": 20}, \"message\": \"OK\", \"status\": 200, \"success\": true}",
+    "_full_body": {
+      "data": {
+        "reviews": [],
+        "count": 0,
+        "offset": 0,
+        "limit": 20
+      },
+      "message": "OK",
+      "status": 200,
+      "success": true
+    }
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/08fde94aa315a465.css?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-11085313298&cx=c&gtm=4e68v1",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&ae=g&auid=938835795.1788325966&dt=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&en=page_view&dl=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&scrsrc=www.googletagmanager.com&rnd=775803914.1788325966&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He68v1v832224542za200zd832224542xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776795~118897920~118897930~120385422&tft=1788325965627&tfd=3139&fmt=8",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": ""
+  },
+  {
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=938835795.1788325966&gtm=45He68v1v832224542za200zd832224542xea&fmt=8",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 204,
+    "content_type": ""
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-1979Q1SS8E&cx=c&gtm=4e68v1",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/6d97c14134091f35.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/820f29208c6ab4ea.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://thewholetruthfoodsindia.api.useinsider.com/ins.js?id=10008650",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://api.thewholetruthfoods.com/store/product-reviews?limit=5&offset=0&order=-created_at&product_id=40912671",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "{\"data\": {\"reviews\": [{\"id\": \"prev_01M0QCWM6Z0G6SWXS0HNC5NWFQ\", \"is_admin_verified\": true, \"title\": \"Rakshita Mehta\", \"description\": \"the fact that it has zero sugar, helps with my craving for something sweet after a meal. As i have gluten allergy, this is the perfect protein source that i can have guilt free.\", \"is_verified_purchase\": true, \"product_id\": \"40912671\", \"variant_id\": \"38750752\", \"order_id\": \"order_01KZBHF8ZJN9C69PSTX2YN2WCW\", \"name\": \"Rakshita Mehta \", \"rating\": 5, \"created_at\": \"2",
+    "_full_body": {
+      "data": {
+        "reviews": [
+          {
+            "id": "prev_01M0QCWM6Z0G6SWXS0HNC5NWFQ",
+            "is_admin_verified": true,
+            "title": "Rakshita Mehta",
+            "description": "the fact that it has zero sugar, helps with my craving for something sweet after a meal. As i have gluten allergy, this is the perfect protein source that i can have guilt free.",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01KZBHF8ZJN9C69PSTX2YN2WCW",
+            "name": "Rakshita Mehta ",
+            "rating": 5,
+            "created_at": "2026-08-23T13:27:48.191Z",
+            "updated_at": "2026-08-27T09:51:05.925Z",
+            "response": null,
+            "associated_medias": [],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          {
+            "id": "prev_01M0N1EYWBG0FZKH0XFEGTJX0Q",
+            "is_admin_verified": true,
+            "title": "Aakash Godse",
+            "description": "",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01M09FN32K9EDHMYTS3E6TZ8MW",
+            "name": "Aakash Godse",
+            "rating": 5,
+            "created_at": "2026-08-22T15:29:37.163Z",
+            "updated_at": "2026-08-27T09:51:14.677Z",
+            "response": null,
+            "associated_medias": [],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          {
+            "id": "prev_01M0FVY5Z2WFJXQ87XSBAEJS2G",
+            "is_admin_verified": true,
+            "title": "Meloni Shah",
+            "description": "",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01KZ8DPMG0RQSXAQY61RV4C43G",
+            "name": "Meloni Shah",
+            "rating": 5,
+            "created_at": "2026-08-20T15:16:52.322Z",
+            "updated_at": "2026-08-27T09:51:45.971Z",
+            "response": null,
+            "associated_medias": [],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          {
+            "id": "prev_01M0F2CWZWS3PAJ3V7ZGKYT52G",
+            "is_admin_verified": true,
+            "title": "Maulin Shah",
+            "description": "",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01KYHDTDJWJM59GQQVZH19DDB5",
+            "name": "Maulin Shah",
+            "rating": 5,
+            "created_at": "2026-08-20T07:50:31.677Z",
+            "updated_at": "2026-08-27T09:51:51.655Z",
+            "response": null,
+            "associated_medias": [],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          {
+            "id": "prev_01M0BPXH0XQTNTSQSBG66S1R0G",
+            "is_admin_verified": true,
+            "title": "Ishani Basak",
+            "description": "",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01KYA6QZR77BHNZW517H4ZWDP5",
+            "name": "Ishani Basak",
+            "rating": 5,
+            "created_at": "2026-08-19T00:32:10.269Z",
+            "updated_at": "2026-08-27T09:52:15.750Z",
+            "response": null,
+            "associated_medias": [],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          }
+        ],
+        "count": 283,
+        "offset": 0,
+        "limit": 5
+      },
+      "message": "OK",
+      "status": 200,
+      "success": true
+    }
+  },
+  {
+    "url": "https://api64.ipify.org/?format=json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json",
+    "body_preview": "{\"ip\": \"2405:201:8006:621b:3028:50ef:993d:91e6\"}",
+    "_full_body": {
+      "ip": "2405:201:8006:621b:3028:50ef:993d:91e6"
+    }
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1357633254391232?v=2.9.390&r=stable&domain=thewholetruthfoods.com&hme=a767ae4c6a92a40ee4d7e358a937ad845c8bdb98a3bbe3412069dded3a7be57d&ex_m=115%2C221%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C179%2C188%2C235%2C82%2C248%2C247%2C246%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C297%2C298%2C299%2C296%2C312%2C335%2C228%2C217%2C68%2C218%2C216%2C338%2C329%2C58%2C229%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C181%2C182%2C104%2C105%2C9%2C113%2C180%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C183",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/_next/static/chunks/05c7aec9e957901a.js?dpl=dpl_DR7oLeph4yHTDMG3BXU96ZE6WVss",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://locationv2.api.useinsider.com/?v=2&pId=10008650&",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "application/json",
+    "body_preview": "{\"ip\": \"ac5af039ecf8dc504be41189cceca813\", \"countryCode\": \"IN\", \"countrName\": \"India\", \"cityName\": \"Kolkata\", \"cityNameId\": \"1275004\", \"regionName\": \"West Bengal\", \"regionNameId\": \"WB\", \"latitude\": \"9e252a1092b12b64919766da8649b04b\", \"longitude\": \"f8aaf3375769f68088dacbbd40dcea09\"}",
+    "_full_body": {
+      "ip": "ac5af039ecf8dc504be41189cceca813",
+      "countryCode": "IN",
+      "countrName": "India",
+      "cityName": "Kolkata",
+      "cityNameId": "1275004",
+      "regionName": "West Bengal",
+      "regionNameId": "WB",
+      "latitude": "9e252a1092b12b64919766da8649b04b",
+      "longitude": "f8aaf3375769f68088dacbbd40dcea09"
+    }
+  },
+  {
+    "url": "https://segment.api.useinsider.com/v4/segments/1788325965951a9a975c233.23ea0c22?partnerid=10008650&fields=588389bfa587c47c38d850f0cc632294,0d82ac1126333828f9bfbd058db4d5e5,29c90e9b681ed4704017a17f5fb6776b&",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "application/json",
+    "body_preview": "{\"29c90e9b681ed4704017a17f5fb6776b\": {}, \"335776636750e4e6adb4a1704ae4347c\": 60000, \"0d82ac1126333828f9bfbd058db4d5e5\": {}, \"590aaa7a9e3ed6b2926580c664b4bbd1\": \"2fee6fe647eb3283c86d87b5e809481e\", \"582760fe48f1a65b062e8d9ac9f455e3\": \"d2cab1fe657147698fa0e03e7117af28\", \"537275b7cdf402e0b8bbab65ede3e9ff\": \"2fee6fe647eb3283c86d87b5e809481e\", \"38865f0bdc31fb2c34b0c8b28f8157b0\": \"unknown\", \"c52e26227e82675d010b6b97b15dff6b\": \"2fee6fe647eb3283c86d87b5e809481e\", \"58baa4cdbf32fb93dbdc8276d6202943\": {}, \"",
+    "_full_body": {
+      "29c90e9b681ed4704017a17f5fb6776b": {},
+      "335776636750e4e6adb4a1704ae4347c": 60000,
+      "0d82ac1126333828f9bfbd058db4d5e5": {},
+      "590aaa7a9e3ed6b2926580c664b4bbd1": "2fee6fe647eb3283c86d87b5e809481e",
+      "582760fe48f1a65b062e8d9ac9f455e3": "d2cab1fe657147698fa0e03e7117af28",
+      "537275b7cdf402e0b8bbab65ede3e9ff": "2fee6fe647eb3283c86d87b5e809481e",
+      "38865f0bdc31fb2c34b0c8b28f8157b0": "unknown",
+      "c52e26227e82675d010b6b97b15dff6b": "2fee6fe647eb3283c86d87b5e809481e",
+      "58baa4cdbf32fb93dbdc8276d6202943": {},
+      "b1530be3161ca47b862eb1b198e36fb5": "2fee6fe647eb3283c86d87b5e809481e",
+      "1e84bdce5ff894124e9b88e38807f5ff": "2fee6fe647eb3283c86d87b5e809481e",
+      "edf69018048d0b6bf52c6ea56691bd97": "2fee6fe647eb3283c86d87b5e809481e",
+      "78264cd5b8727dcef8b192c739d6777b": {},
+      "588389bfa587c47c38d850f0cc632294": "unknown",
+      "bf68f58b3acd5583bba36ab111c26b7a": {},
+      "e5908e2e00fa0c06d32dae9ccb56df79": "2fee6fe647eb3283c86d87b5e809481e",
+      "16416ea999f360709e9ded2bb5428014": "unknown"
+    }
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "method": "POST",
+    "resource_type": "ping",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "method": "POST",
+    "resource_type": "ping",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://api.thewholetruthfoods.com/store/product-reviews?limit=20&offset=0&order=-created_at&product_id=40912671&has_images=true&has_videos=true",
+    "method": "GET",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "{\"data\": {\"reviews\": [{\"id\": \"prev_01KV559TEHZJG3AFN9QAJX25XQ\", \"is_admin_verified\": true, \"title\": \"Sumit Agrawal\", \"description\": \"Received very old batch from Feb 2026 \\nMost the packs do not have any air in them\", \"is_verified_purchase\": true, \"product_id\": \"40912671\", \"variant_id\": \"38750752\", \"order_id\": \"order_01KV34JZK98R1MVR1RPCA3W03R\", \"name\": \"Sumit Agrawal\", \"rating\": 1, \"created_at\": \"2026-06-15T08:10:23.057Z\", \"updated_at\": \"2026-06-22T05:46:34.065Z\", \"response\": null, \"associated_",
+    "_full_body": {
+      "data": {
+        "reviews": [
+          {
+            "id": "prev_01KV559TEHZJG3AFN9QAJX25XQ",
+            "is_admin_verified": true,
+            "title": "Sumit Agrawal",
+            "description": "Received very old batch from Feb 2026 \nMost the packs do not have any air in them",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": "38750752",
+            "order_id": "order_01KV34JZK98R1MVR1RPCA3W03R",
+            "name": "Sumit Agrawal",
+            "rating": 1,
+            "created_at": "2026-06-15T08:10:23.057Z",
+            "updated_at": "2026-06-22T05:46:34.065Z",
+            "response": null,
+            "associated_medias": [
+              {
+                "id": "ram_01KV559TENZNF2N3SKEREZKSRV",
+                "url": "public/backend-assets/01KV558DFHP3MXE0K4MYC9MP4R.jpeg",
+                "type": "IMAGE",
+                "product_review_id": "prev_01KV559TEHZJG3AFN9QAJX25XQ",
+                "created_at": "2026-06-15T08:10:23.061Z",
+                "updated_at": "2026-06-15T08:10:23.061Z",
+                "deleted_at": null
+              },
+              {
+                "id": "ram_01KV559TEN6KFFK0GTEA0HPKRA",
+                "url": "public/backend-assets/01KV558XWVFFBY5SDAF7DDD4P1.jpeg",
+                "type": "IMAGE",
+                "product_review_id": "prev_01KV559TEHZJG3AFN9QAJX25XQ",
+                "created_at": "2026-06-15T08:10:23.061Z",
+                "updated_at": "2026-06-15T08:10:23.061Z",
+                "deleted_at": null
+              }
+            ],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          },
+          {
+            "id": "prev_01KJQ83038K8GK4B3RE35AMGRM",
+            "is_admin_verified": true,
+            "title": "B.S.Prahlad",
+            "description": "I got two extra bars since they might get expired( one month before expiry). Truly the best experience i ever had. Best taste. Best quality. Best Delivery. Would recommend this to anyone on any given day\u2764\ufe0f\u2764\ufe0f",
+            "is_verified_purchase": true,
+            "product_id": "40912671",
+            "variant_id": null,
+            "order_id": "order_01KJ024EJ516MM8BZHK937W8B3",
+            "name": "B.S.Prahlad",
+            "rating": 5,
+            "created_at": "2026-03-02T12:24:08.552Z",
+            "updated_at": "2026-03-05T05:45:30.680Z",
+            "response": null,
+            "associated_medias": [
+              {
+                "id": "ram_01KJQ8303DZDWR8HTZ0WRYZZHC",
+                "url": "public/backend-assets/01KJQ82TKTW68DYZYDXFY1ZBB4.jpeg",
+                "type": "IMAGE",
+                "product_review_id": "prev_01KJQ83038K8GK4B3RE35AMGRM",
+                "created_at": "2026-03-02T12:24:08.557Z",
+                "updated_at": "2026-03-02T12:24:08.557Z",
+                "deleted_at": null
+              }
+            ],
+            "product": [
+              {
+                "id": "40912671",
+                "title": "Double Cocoa Mini Protein Bars - Box of 12",
+                "handle": "double-cocoa-mini-bars",
+                "subtitle": null,
+                "description": "<p>Dark, fudgy chocolate topped with crisp roasted almonds. They lied when they said healthy can&rsquo;t be this tasty.</p>",
+                "is_giftcard": false,
+                "status": "published",
+                "thumbnail": "public/backend-assets/image_1753691825647.png",
+                "weight": null,
+                "length": null,
+                "height": null,
+                "width": null,
+                "origin_country": null,
+                "hs_code": null,
+                "mid_code": null,
+                "material": null,
+                "discountable": true,
+                "external_id": null,
+                "metadata": {
+                  "strapiId": "xemnk8c563qlii906n64ovha",
+                  "strapiSyncedAt": 1753691828104,
+                  "category_rankings": [
+                    {
+                      "id": "11981338",
+                      "rank": 0
+                    },
+                    {
+                      "id": "11984807",
+                      "rank": 2
+                    },
+                    {
+                      "id": "11984680",
+                      "rank": 1
+                    }
+                  ]
+                },
+                "type_id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG",
+                "type": {
+                  "id": "ptyp_01K1807Y5J2DKH5R17K0RWDPJG"
+                },
+                "collection_id": null,
+                "collection": null,
+                "created_at": "2025-07-28T07:55:56.772Z",
+                "updated_at": "2026-07-20T15:55:22.310Z",
+                "deleted_at": null
+              }
+            ]
+          }
+        ],
+        "count": 2,
+        "offset": 0,
+        "limit": 20
+      },
+      "message": "OK",
+      "status": 200,
+      "success": true
+    }
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KV558DFHP3MXE0K4MYC9MP4R.jpeg?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KJQ82TKTW68DYZYDXFY1ZBB4.jpeg?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://media.thewholetruthfoods.com/public/backend-assets/01KV558XWVFFBY5SDAF7DDD4P1.jpeg?w=64&q=60&f=webp",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://carrier.useinsider.com/v2/event/trigger-events/thewholetruthfoodsindia/web?",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "application/json",
+    "body_preview": "[{\"id\": 1, \"event_name\": \"Search Button\", \"selector_string\": \"body > header > div:eq(1) > div:eq(0) > div > div:eq(0) > svg:eq(1)\", \"target_builder_id\": 500, \"reference_variation_id\": null, \"platform\": \"web\", \"created_at\": \"2025-06-02T05:43:02Z\", \"updated_at\": \"2025-06-02T05:43:02Z\"}]",
+    "_full_body": [
+      {
+        "id": 1,
+        "event_name": "Search Button",
+        "selector_string": "body > header > div:eq(1) > div:eq(0) > div > div:eq(0) > svg:eq(1)",
+        "target_builder_id": 500,
+        "reference_variation_id": null,
+        "platform": "web",
+        "created_at": "2025-06-02T05:43:02Z",
+        "updated_at": "2025-06-02T05:43:02Z"
+      }
+    ]
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://falcon.useinsider.com/api/v2/log-tracking/hit/thewholetruthfoodsindia",
+    "method": "POST",
+    "resource_type": "xhr",
+    "status": 204,
+    "content_type": ""
+  },
+  {
+    "url": "https://hit.api.useinsider.com/hit",
+    "method": "POST",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  {
+    "url": "https://hit.api.useinsider.com/hit",
+    "method": "POST",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=0&auid=938835795.1788325966&dt=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&tid=AW-11085313298&en=page_view&dl=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&scrsrc=www.googletagmanager.com&rnd=775803914.1788325966&navt=n&npa=0&gtm=45be68v1v9164887272z8832224542za20gzb832224542zd832224542xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385423&tft=1788325966605&tfd=4117&tids=AW-11085313298&fmt=8",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": ""
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/11085313298/?random=1788325966540&cv=11&fst=1788325966540&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68v1v9164887272z8832224542za20gzb832224542zd832224542xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385423&u_w=1280&u_h=720&url=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&rcb=1&frm=0&tiba=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=938835795.1788325966&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": ""
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11085313298/?random=1788325966540&cv=11&fst=1788325966540&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68v1v9164887272z8832224542za20gzb832224542zd832224542xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385423&u_w=1280&u_h=720&url=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&rcb=1&frm=0&tiba=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=938835795.1788325966&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "text/javascript; charset=ISO-8859-1"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/api/analytics/fb-capi",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "application/json",
+    "body_preview": "{\"success\": true, \"result\": {\"events_received\": 1, \"messages\": [], \"fbtrace_id\": \"Adz7sabiTWiBPorRsTRRmc6\"}}",
+    "_full_body": {
+      "success": true,
+      "result": {
+        "events_received": 1,
+        "messages": [],
+        "fbtrace_id": "Adz7sabiTWiBPorRsTRRmc6"
+      }
+    }
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/11085313298/?random=1788325966540&cv=11&fst=1788325200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68v1v9164887272z8832224542za20gzb832224542zd832224542xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385423&u_w=1280&u_h=720&url=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&rcb=1&frm=0&tiba=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=938835795.1788325966&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS6wEAQM4h3NyKveu1ZPbd5F5Y2T0xqYZuc-ADyoyJyb2CpDZX2L6xwFDUBgCmxmhHjrJ4NyGuHz8DTgsQ2BbP4UU44rEEEPrjmb4n4-qY7J9D3tFcopjhWuaDIrtd0Lj2UmPMZGELR6IXJHXwn27WK86pHZ80YrEYRwazwkWqqJPzvUe40ZQ5UnDHsPh5QgIfgvhVzOtRsff5bM_IJ_EapXL4u4NrD6UDeoqtQTXeIhpHB2Y9LFxKSe7nB78yWfgB0cg1gfhduzQOGuBGawgH0ghLFNK6eB_b_0Px5SgcZKJcqhMiTiIq1ADg1uFL&random=3137496131&rmt_tld=0&ipr=y",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://thewholetruthfoods.com/products/double-cocoa-mini-bars?sku_id=38750752",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 200,
+    "content_type": "text/x-component"
+  },
+  {
+    "url": "https://www.google.co.in/pagead/1p-user-list/11085313298/?random=1788325966540&cv=11&fst=1788325200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68v1v9164887272z8832224542za20gzb832224542zd832224542xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385423&u_w=1280&u_h=720&url=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&rcb=1&frm=0&tiba=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=938835795.1788325966&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS6wEAQM4h3NyKveu1ZPbd5F5Y2T0xqYZuc-ADyoyJyb2CpDZX2L6xwFDUBgCmxmhHjrJ4NyGuHz8DTgsQ2BbP4UU44rEEEPrjmb4n4-qY7J9D3tFcopjhWuaDIrtd0Lj2UmPMZGELR6IXJHXwn27WK86pHZ80YrEYRwazwkWqqJPzvUe40ZQ5UnDHsPh5QgIfgvhVzOtRsff5bM_IJ_EapXL4u4NrD6UDeoqtQTXeIhpHB2Y9LFxKSe7nB78yWfgB0cg1gfhduzQOGuBGawgH0ghLFNK6eB_b_0Px5SgcZKJcqhMiTiIq1ADg1uFL&random=3137496131&rmt_tld=1&ipr=y",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-1979Q1SS8E&gtm=45je68v1v9173986681z8832224542za20gzb832224542zd832224542&_p=1788325964563&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=64124321&_eu=AAAAAGAC&are=1&cid=175621813.1788325967&ec_mode=a&frm=0&pscdl=noapi&rcb=3&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-gb&gaf=2&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~119404698~120213116~120385423&sid=1788325966&sct=1&seg=0&dl=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars%3Fsku_id%3D38750752&dt=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=4290",
+    "method": "POST",
+    "resource_type": "fetch",
+    "status": 204,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://assets.snapmint.com/assets/merchant/houseofsuhi_snap_light.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-1979Q1SS8E&cid=175621813.1788325967&gtm=45je68v1v9173986681z8832224542za20gzb832224542zd832224542&rcb=3&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119404698~120213116~120385423&z=924165226",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://assets.snapmint.com/assets/merchant/wholetrurthfoods-green-tag-img.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/svg+xml"
+  },
+  {
+    "url": "https://assets.snapmint.com/assets/merchant/thewholetruthfoods--seeplans-img.png",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://assets.snapmint.com/assets/merchant/snap_logo_grey_text_img.png",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://assets.snapmint.com/assets/merchant/prosuppsindia-buyonemi.png",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-1979Q1SS8E&cid=175621813.1788325967&gtm=45je68v1v9173986681z8832224542za20gzb832224542zd832224542&rcb=3&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119404698~120213116~120385423",
+    "method": "POST",
+    "resource_type": "ping",
+    "status": 204,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.clarity.ms/tag/ob628gumu8",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/x-javascript"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Inter",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://rum-static.pingdom.net/pa-68ca816b5c6a7000120009cf.js",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://c.clarity.ms/c.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 302,
+    "content_type": ""
+  },
+  {
+    "url": "https://scripts.clarity.ms/0.8.69/clarity.js",
+    "method": "GET",
+    "resource_type": "script",
+    "status": 200,
+    "content_type": "application/javascript;charset=utf-8"
+  },
+  {
+    "url": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=8BCA6FC1521746D2825CC3FDEA7534F1&RedC=c.clarity.ms&MXFR=2A7969511AA968122E8B7E991EA96693",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 302,
+    "content_type": ""
+  },
+  {
+    "url": "https://rum-collector-2.pingdom.net/img/beacon.gif?id=68ca816b5c6a7000120009cf&sAW=1280&sAH=720&bIW=1280&bIH=720&pD=24&dPR=1&or=landscape-primary&nT=0&rC=0&nS=0&cS=56&cE=339&dLE=52&dLS=18&fS=1&hS=205&rE=-1&rS=-1&reS=346&resS=518&resE=618&uEE=-1&uES=-1&dL=608&dI=1773&dCLES=1773&dCLEE=1774&dC=2169&lES=2169&lEE=2169&s=nt&title=Double%20Cocoa%20Mini%20Protein%20Bars%20-%20Box%20of%2012%20-%20The%20Whole%20Truth%20Foods&path=https%3A%2F%2Fthewholetruthfoods.com%2Fproducts%2Fdouble-cocoa-mini-bars&ref=&sId=1uhmkgx2&sST=1788325967&sIS=1&rV=0&v=1.4.1",
+    "method": "GET",
+    "resource_type": "xhr",
+    "status": 200,
+    "content_type": ""
+  },
+  {
+    "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=8BCA6FC1521746D2825CC3FDEA7534F1&MUID=3707021155F46D673DBA15D9545C6CD9",
+    "method": "GET",
+    "resource_type": "image",
+    "status": 200,
+    "content_type": "image/gif"
+  },
+  {
+    "url": "https://t.clarity.ms/collect",
+    "method": "POST",
+    "resource_type": "xhr",
+    "status": 204,
+    "content_type": ""
+  },
+  {
+    "url": "https://t.clarity.ms/collect",
+    "method": "POST",
+    "resource_type": "xhr",
+    "status": 204,
+    "content_type": ""
+  }
+]
